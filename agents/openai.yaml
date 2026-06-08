@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "江南感写作"
+  short_description: "用于原创小说写作、润色、诊断与改稿的江南感跨系列笔法协议。"
+  default_prompt: "帮我把这段原创设定或场景按江南感 v1.0 协议深化。"
